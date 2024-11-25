@@ -8,6 +8,7 @@ name: "base"
 # these restrictions completely.
 channels:
   - conda-forge
+  - nodefaults
 dependencies: 
   - numpy
 prefix: "/opt/conda"
